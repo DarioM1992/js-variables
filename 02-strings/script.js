@@ -23,7 +23,7 @@ console.log(number);
 const text = 'corso';
 console.log(text);
 
-const bool = true ;
+const bool = 3 < 1 ;
 console.log(bool);
 
 const fullName = firstName + '' + lastName;
